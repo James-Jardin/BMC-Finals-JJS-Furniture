@@ -1,0 +1,13 @@
+﻿project_id = "jjs_furniture"
+
+[functions.create-invoice]
+verify_jwt = true
+
+# Provider callbacks use Xendit's verification token, not a Supabase user JWT.
+[functions.xendit-webhook]
+verify_jwt = false
+
+# Scheduler is authenticated by a separate server-only secret.
+[functions.reconcile-orders]
+verify_jwt = false
+

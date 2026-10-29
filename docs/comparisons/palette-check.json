@@ -1,0 +1,67 @@
+[
+  {
+    "screen": "shop",
+    "reference_background": [
+      19,
+      17,
+      23
+    ],
+    "app_background": [
+      19,
+      17,
+      23
+    ]
+  },
+  {
+    "screen": "details",
+    "reference_background": [
+      19,
+      17,
+      23
+    ],
+    "app_background": [
+      19,
+      17,
+      23
+    ]
+  },
+  {
+    "screen": "cart",
+    "reference_background": [
+      19,
+      17,
+      23
+    ],
+    "app_background": [
+      19,
+      17,
+      23
+    ]
+  },
+  {
+    "screen": "dashboard",
+    "reference_background": [
+      19,
+      17,
+      23
+    ],
+    "app_background": [
+      19,
+      17,
+      23
+    ]
+  },
+  {
+    "screen": "account",
+    "reference_background": [
+      19,
+      17,
+      23
+    ],
+    "app_background": [
+      19,
+      17,
+      23
+    ]
+  }
+]

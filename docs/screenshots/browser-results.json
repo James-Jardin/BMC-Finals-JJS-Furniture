@@ -1,0 +1,32 @@
+{
+  "fixture": true,
+  "viewports": [
+    {
+      "width": 414,
+      "height": 896
+    },
+    {
+      "width": 360,
+      "height": 800
+    },
+    {
+      "width": 1440,
+      "height": 1000
+    }
+  ],
+  "errors": [],
+  "checks": [
+    {
+      "viewport": "414x896",
+      "semantics": "Account\nF Furniture lover Browsing as guest\n1 item(s) in cart ₱57238.92\nOrders Track past purchases\nWishlist Your saved pieces\nAddresses\nAdmin access\nShop\nDashboard\n1 Cart\nAccount"
+    },
+    {
+      "viewport": "360x800",
+      "semantics": "Account\nF Furniture lover Browsing as guest\n1 item(s) in cart ₱57238.92\nOrders Track past purchases\nWishlist Your saved pieces\nAddresses\nAdmin access\nShop\nDashboard\n1 Cart\nAccount"
+    },
+    {
+      "viewport": "1440x1000",
+      "semantics": "Account\nF Furniture lover Browsing as guest\n1 item(s) in cart ₱57238.92\nOrders Track past purchases\nWishlist Your saved pieces\nAddresses\nAdmin access\nShop\nDashboard\n1 Cart\nAccount"
+    }
+  ]
+}

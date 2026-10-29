@@ -1,0 +1,18 @@
+{
+  "fixture": true,
+  "viewports": [
+    {
+      "width": 414,
+      "height": 896
+    },
+    {
+      "width": 360,
+      "height": 800
+    },
+    {
+      "width": 1440,
+      "height": 1000
+    }
+  ],
+  "errors": []
+}
